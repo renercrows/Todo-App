@@ -1,7 +1,7 @@
-# Math-Magician
+# Todo List App
 project1
 
-> A responsive leaderboard webpage made with JavaScript, React and Webpack, made for a Microverse project
+> A responsive listing webpage made with JavaScript, React and Webpack, made for a Microverse project
 
 ## Built With
 
